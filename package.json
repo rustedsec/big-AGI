@@ -24,7 +24,7 @@
     "@emotion/styled": "^11.11.5",
     "@mui/icons-material": "^5.15.15",
     "@mui/joy": "^5.0.0-beta.32",
-    "@next/bundle-analyzer": "^14.1.4",
+    "@next/bundle-analyzer": "^14.2.3",
     "@next/third-parties": "^14.2.0-canary.60",
     "@prisma/client": "^5.12.1",
     "@sanity/diff-match-patch": "^3.1.1",
